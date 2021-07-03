@@ -1,3 +1,1 @@
-# aja-baja
-# Brigate
 # Brigate
